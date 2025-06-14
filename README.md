@@ -25,7 +25,7 @@ The script expects a local .env file (ignored by Git) with the following keys:
 ```
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD='your_password'
+DB_PASSWORD=your_password
 DB_NAME=shop
 ```
 
