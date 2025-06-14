@@ -37,11 +37,13 @@ python shop.py
 
 ## Project Structure
 
+```
 ├── .gitignore
 ├── requirements.txt
 ├── project.py       # main script (this repo)
 ├── shop.sql       # creating tables script
 └── README.md
+```
 
 ## License
 
