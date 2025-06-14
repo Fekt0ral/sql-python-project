@@ -6,15 +6,17 @@ A lightweight Python script that connects to a MySQL database, retrieves basic p
 
 Install dependencies listed in requirements.txt (Python 3.8 or newer):
 
+```bash
 pip install -r requirements.txt
+```
 
 Key libraries:
 
-mysql‑connector‑python – MySQL driver
+* mysql‑connector‑python – MySQL driver
 
-python‑dotenv – reads environment variables from .env
+* python‑dotenv – reads environment variables from .env
 
-pandas – tabular formatting
+* pandas – tabular formatting
 
 ## Environment Variables
 
@@ -29,7 +31,9 @@ Tip: The script never prints credentials; they stay in memory only.
 
 ## Usage
 
+```bash
 python shop.py
+```
 
 ## Project Structure
 
