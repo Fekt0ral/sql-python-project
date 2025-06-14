@@ -22,10 +22,12 @@ Key libraries:
 
 The script expects a local .env file (ignored by Git) with the following keys:
 
+```
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD='your_password'
 DB_NAME=shop
+```
 
 Tip: The script never prints credentials; they stay in memory only.
 
